@@ -12,6 +12,3 @@
 
 I am currently studying Computer Science
 
-## Contact
-
-- [G-mail](nycolaslemee@gmail.com)
