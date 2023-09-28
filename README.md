@@ -14,4 +14,4 @@ I am currently studying Computer Science
 
 ## Contact
 
-- [![G-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nycolaslemee@gmail.com)
+- [G-mail](nycolaslemee@gmail.com)
